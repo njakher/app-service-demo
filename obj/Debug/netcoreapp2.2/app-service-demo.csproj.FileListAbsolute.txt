@@ -1,0 +1,14 @@
+D:\Work\RD\AppServiceDemo\app-service-demo\bin\Debug\netcoreapp2.2\app-service-demo.deps.json
+D:\Work\RD\AppServiceDemo\app-service-demo\bin\Debug\netcoreapp2.2\app-service-demo.runtimeconfig.json
+D:\Work\RD\AppServiceDemo\app-service-demo\bin\Debug\netcoreapp2.2\app-service-demo.runtimeconfig.dev.json
+D:\Work\RD\AppServiceDemo\app-service-demo\bin\Debug\netcoreapp2.2\app-service-demo.dll
+D:\Work\RD\AppServiceDemo\app-service-demo\bin\Debug\netcoreapp2.2\app-service-demo.pdb
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.csprojAssemblyReference.cache
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.csproj.CoreCompileInputs.cache
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.RazorAssemblyInfo.cache
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.RazorAssemblyInfo.cs
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.AssemblyInfoInputs.cache
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.AssemblyInfo.cs
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.RazorTargetAssemblyInfo.cache
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.dll
+D:\Work\RD\AppServiceDemo\app-service-demo\obj\Debug\netcoreapp2.2\app-service-demo.pdb
